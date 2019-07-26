@@ -14,6 +14,8 @@ My Little Brother(MIK) Shared me some ideas.Then i create this tool.
        * pkg install python 
        * pip install wget
        * pip install requets
+       * termux-setup-storage
+       * cd storage/shared
        * git clone https://github.com/TheKing205/Advance-Grabber.git
        * cd Advance-Grabber
        * python kill3r.py 
