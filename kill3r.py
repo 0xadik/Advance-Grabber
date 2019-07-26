@@ -7,15 +7,13 @@ import os
 import getpass
 
 print('''
-
-                ------------------------------------------
-               |        Advance Grubber Toolkit v1.0      |
-               |   Script Developed By M4d Sn!p3r(Mr.SxS) |
-               |      Usage: python3 kill3r.py            |
-                ------------------------------------------
+        ------------------------------------------
+       |        Advance Grubber Toolkit v1.0      |
+       |   Script Developed By M4d Sn!p3r(Mr.SxS) |
+       |      Usage: python3 kill3r.py            |
+        ------------------------------------------
  1. Bypass Locked profile Picture 2. Generate Token 3. Grub Mobile Numbers
-        
-
+ 
 ''')
 while 10 == 10:
     User_input = input("What Do you want?: ").strip()
