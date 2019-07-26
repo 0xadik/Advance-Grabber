@@ -14,8 +14,8 @@ My Little Brother(MIK) Shared me some ideas.Then i create this tool.
        * pkg install python 
        * pip install wget
        * pip install requets
-       * gitclone
-       * cd Advance Grabber
+       * git clone https://github.com/TheKing205/Advance-Grabber.git
+       * cd Advance-Grabber
        * python kill3r.py 
     
    # Windows 7,8,10
