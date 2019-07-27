@@ -24,10 +24,15 @@ My Little Brother Shared me some ideas.Then i create this tool.
     
    # Windows 7,8,10
     * Install python 3.6 from (https://www.python.org/downloads/)
+    (Set python path for CMD)
+    * Open CMD 
+    * pip install wget
+    * pip install requets
     * And Run this Script or type in CMD python kill3r.py or python3 kill3r.py
     
    # Linux
     # Kali Linux
+     * Open Terminal
      * pip install wget
      * pip install requets
      * git clone https://github.com/TheKing205/Advance-Grabber.git
