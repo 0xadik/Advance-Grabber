@@ -1,3 +1,5 @@
+[![version](https://img.shields.io/badge/version-1.0.1-yellow.svg)](http://sadikulislam.xyz)
+
 # Advance-Grabber
 FACEBOOK API BASED TOOLS
 
