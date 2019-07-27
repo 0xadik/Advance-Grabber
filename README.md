@@ -2,7 +2,7 @@
 FACEBOOK API BASED TOOLS
 
 # Story 
-My Little Brother(MIK) Shared me some ideas.Then i create this tool.
+My Little Brother Shared me some ideas.Then i create this tool.
 
 # Installation & Usage 
 
