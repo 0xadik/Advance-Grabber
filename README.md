@@ -4,7 +4,7 @@ FACEBOOK API BASED TOOLS
 # Story 
 My Little Brother(MIK) Shared me some ideas.Then i create this tool.
 
-# Installation
+# Installation & Usage 
 
 # Android
    * Insatall Termux from Google Play Store
